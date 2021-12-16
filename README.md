@@ -1,4 +1,4 @@
-# CleancodeAssigment
+# Cleancode Assigment
 
 Ayush Rai
 (1707)
